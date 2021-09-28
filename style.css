@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: Times;
+  font-size: 32px;
+}
+
+font.links {
+  position: absolute;
+  font-size: 32px;
+  color: grey;
+}
