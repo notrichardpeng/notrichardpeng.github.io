@@ -22,16 +22,17 @@ body {
   padding: 32px;
 }
 
-a{
+a {
   color: grey;
+  text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: yellow;
   margin-left: 10px;
 }
 
-#name{
+#name {
   color: white;  
 }
 

@@ -1,0 +1,26 @@
+@media screen and (min-width: 1001px){
+  body {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1000px){
+  body {
+    font-size: 32px;
+  }
+}
+
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 32px;
+}
+
+a {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
