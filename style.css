@@ -1,19 +1,13 @@
 @media screen and (min-width: 1001px){
   body {
     font-size: 32px;
-  }
-  #name{
-    font-size: 64px;  
-  }
+  }  
 }
 
 @media screen and (max-width: 1000px){
   body {
-    font-size: 48px;
-  }
-  #name{
-    font-size: 56px;  
-  }
+    font-size: 56px;
+  }  
 }
 
 body {
@@ -34,5 +28,6 @@ a:hover {
 
 #name {
   color: white;  
+  font-size: 64px;
 }
 
